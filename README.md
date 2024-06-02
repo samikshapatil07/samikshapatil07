@@ -7,4 +7,7 @@
 - 😄 Pronouns: she/her
 
 
-##Social
+## Social:
+- LinkedIn www.linkedin.com/in/samiksha-patil-5bb146229
+
+## Tech Stack:
